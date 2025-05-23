@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-kumar-tirumala" alt="pranay-kumar-tirumala" /></a> </p>
 
-- 🔭 I’m currently working on **Organ Donation application using DevOps**
-
-- 🌱 I’m currently learning **Angular, Spring Boot**
+- 🔭 I’m currently working as **SDE2** at **AMD**
 
 - 📫 How to reach me **pranaykumar562@gmail.com**
 
